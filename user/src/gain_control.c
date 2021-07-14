@@ -1,4 +1,4 @@
-void alc_ctrl(void)
+void alc_control(void)
 {
     // alc function
 }
